@@ -1,4 +1,4 @@
-const CACHE_NAME = 'agro-moliya-v3';
+const CACHE_NAME = 'agro-moliya-v4';
 const STATIC_ASSETS = [
   './',
   './index.html',
